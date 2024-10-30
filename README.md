@@ -55,6 +55,3 @@ sangeet-lite/
 
 We welcome contributions! Please feel free to submit a Pull Request.
 
-## License
-
-[Add your license information here]
