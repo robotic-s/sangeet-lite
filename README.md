@@ -19,7 +19,7 @@ A streamlined music streaming application crafted for casual listeners. Sangeet 
 
 ```bash
 git clone https://github.com/robotic-s/sangeet-lite.git
-cd "sangeet radio plus"
+cd sangeet-lite\"sangeet radio plus"
 ```
 
 ### 2. Install Dependencies
